@@ -9,3 +9,10 @@ Was wäre ein geeignetes Projekt für diese LP6?
 
 Ich will eigentlich  möglichst viel für die Module machen in der LP6 das ich eine gute Note mache kann. Also  vorallem will ich  mich auf das Modul 322 fokusieren und beid den anderen Warte ich wie ich in diese rein Starte.
 
+## Arbeitspakete 16.08.2024 
+
+- [ ] Projket Ideen Suchen
+- [ ] Projekt Ideen Suchen
+- [ ] Beginnen mit dem Projekt
+- [ ] An den Modulen arbeiten
+  
