@@ -16,5 +16,11 @@ Ich will eigentlich  möglichst viel für die Module machen in der LP6 das ich e
 - [ ] Beginnen mit dem Projekt
 - [ ] An den Modulen arbeiten
 
+## Arbeitspakete 23.08.2024
+
+- [ ] Beginnen mit dem Projekt, erstellen der ersten Codes der Bibliothek
+- [ ] die einzelnen Objekte machen zuerst mit dem Buch beginnen
+- [ ] Modul arbeit 320 die probleme nochmals anschaune und zu den Notizen Hinzufügen
+      
 
   
