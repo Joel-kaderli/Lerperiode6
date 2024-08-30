@@ -28,5 +28,6 @@ Heute Morgen im Lern Atelier habe ich mit meinem Projekt begonnen und die ersten
 - [ ] Im Modul 231 die Aufträge 1713 machen nachholen
 - [ ] Im Modul 231 die Aufträge 1714 und 1717 machen nachholen
 - [ ] Wenn noch Zeit bleibt an der Bibliothek weiterarbeiten
+Heute Morgen habe ich im Lernatelier an den Modulaufträgen weitergearbeitet und nachgeholt. Ich habe vor allem im OOP Modul 320 ein wenig Mühe, weil es ein sehr schweres Modul ist, wie ich finde, und darum will ich dafür Zeit im Lernatelier verwenden.
       
   
