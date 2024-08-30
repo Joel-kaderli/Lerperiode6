@@ -23,5 +23,10 @@ Ich will eigentlich  möglichst viel für die Module machen in der LP6 das ich e
 - [ ] Modul arbeit 320 die probleme nochmals anschaune und zu den Notizen Hinzufügen
 Heute Morgen im Lern Atelier habe ich mit meinem Projekt begonnen und die ersten teile im Code geschrieben. Ich habe eine Buch Objekt erstellt und dazu noch eine Bibliothek Objekt erstellt. Danach habe ich Modul 320 weiter gearbeitet, und dort habe ich meine Notizen erweitert so das ich beim Coden darauf zugreifen kann wenn ich es brache.
       
-
+## Arbeitspakete 30.08.2024
+- [ ] Im Modul 320 Auftrag 4207 nachholen
+- [ ] Im Modul 231 die Aufträge 1713 machen nachholen
+- [ ] Im Modul 231 die Aufträge 1714 und 1717 machen nachholen
+- [ ] Wenn noch Zeit bleibt an der Bibliothek weiterarbeiten
+      
   
