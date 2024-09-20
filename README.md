@@ -44,4 +44,11 @@ Heute Morgen habe ich im Lernatelier an den Modulaufträgen weitergearbeitet und
 - [ ] Dazu überlegen ob ich Haut und Subklassen in mein Porjekt einbauen kann
 - [ ] Im Modul 322 einen Prototyp fertig zumachen.
 - [ ] Im Modul 291 die Aufträge der Letzten Stunde Nachhole die nicht fertig wurden.
+
+##Arbeitspakete 20.09.2024
+
+- [ ] Im Modul 322 nochmals auffrieschen
+- [ ] High-Fidelty-Prototyp erstellen
+- [ ] Vorarbeiten Modul 231 auftrag 20 und 21
+- [ ] Vorarbeiten Modul 231 auftrag 20 und 21
   
